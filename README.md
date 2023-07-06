@@ -1,5 +1,5 @@
 <p align="center">
-	  <img src="headerimage.svg" width="150" alt="headerimage">
+	  <img src="https://raw.githubusercontent.com/tristankeith/readme-private/ORIGIN/headerimage.svg?token=GHSAT0AAAAAACEHLPWPPNK4LZCEAJNT5342ZFG4UOA" width="150" alt="headerimage">
 </p>
 <p align="center">
 	tristankeith
