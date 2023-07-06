@@ -9,7 +9,7 @@
 ---
 
 <div align="left">
-	<img src="aboutme.svg" width="70%" alt="aboutme">
+	<img src="https://raw.githubusercontent.com/tristankeith/readme-private/ORIGIN/aboutme.svg?token=GHSAT0AAAAAACEHLPWOAM3T6IEV62W3C224ZFG4VOA" width="70%" alt="aboutme">
 	
 <br/>
 <br/>
@@ -32,7 +32,7 @@
 </div>
 
 <div align="left">
-	<img src="repository.svg" width="70%" alt="aboutme">
+	<img src="https://raw.githubusercontent.com/tristankeith/readme-private/ORIGIN/repository.svg?token=GHSAT0AAAAAACEHLPWPVPSR2GMHRGMNRWVWZFG4VYA" width="70%" alt="aboutme">
 
 <br/>
 
