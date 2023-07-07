@@ -2,7 +2,8 @@
 	  <img src="headerimage.svg" width="150" alt="headerimage">
 </p>
 <p align="center">
-	tristankeith
+	tristankeith <br/>
+	<img src="https://discord.com/assets/fddabadcb0b358a763a9afd2857bb5d5.svg" width="16" alt="ph"/>
 </p>
 </div>
 
@@ -12,9 +13,6 @@
 	<img src="aboutme.svg" width="60%" alt="aboutme">
 	
 <br/>
-<br/>
-
-- <img src="https://discord.com/assets/fddabadcb0b358a763a9afd2857bb5d5.svg" width="16" alt="ph"/> Currently in PH
 
 <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126388844732887072/10e5a2c565184c39ab404e0e206d5ab5.png" width="220" align="right" />
 
@@ -31,6 +29,9 @@
 - Mainly used C# <img src="https://media.discordapp.net/attachments/1126136594844368986/1126403521709871185/csharp-original.png" width="16" alt="C#"/>, Python <img src="https://media.discordapp.net/attachments/1126136594844368986/1126403646859522128/python-original.png" width="16" alt="Python"/>, Java <img src="https://media.discordapp.net/attachments/1126136594844368986/1126403540282245161/java-original.png" width="16" alt="Java"/>, and JavaScript <img src="https://media.discordapp.net/attachments/1126136594844368986/1126403553045532732/javascript-original.png" width="16" alt="Java"/>. I've used other languages but not commonly used.
  
 </div>
+
+<br/>
+<br/>
 
 <div align="left">
 	<img src="projects.svg" width="60%" alt="projects">
@@ -62,28 +63,42 @@
 
 ---
 
-<sub>  *I didn't know that you can customize your profile readme.md until i saw aiko's profile. so credits to [pronouns].* </sub>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 <div align="center">
+	<img src="stats.svg" width="60%" alt="aboutme">
+	<br/>
+	<br/>
+	<br/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=tristankeith&theme=vue-dark&hide_border=true" width="55.5%" alt="stats"/>
+ <img src="https://grs-tristankeith.vercel.app/api/top-langs/?username=tristankeith&layout=compact&theme=vue-dark&hide_border=true" width="43.5%" alt="langs"/>
+	
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<div align="center">
+	
+<sub>  *I didn't know that you can customize your profile readme.md until i saw aiko's profile. so credits to [pronouns].* </sub> <br/>
+<br/>
 	<img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126514681113214987/FnrIm65WAAU3-KR.jpg" width="50" alt="cute">
 	<br/>
 
