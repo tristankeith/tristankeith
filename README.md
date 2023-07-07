@@ -9,7 +9,7 @@
 ---
 
 <div align="left">
-	<img src="aboutme.svg" width="70%" alt="aboutme">
+	<img src="aboutme.svg" width="60%" alt="aboutme">
 	
 <br/>
 <br/>
@@ -32,23 +32,23 @@
 </div>
 
 <div align="left">
-	<img src="projects.svg" width="70%" alt="aboutme">
+	<img src="repository.svg" width="60%" alt="aboutme">
 
 <br/>
 
 <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126137001163370536/keke-dance.gif" width="250" align="right" alt="cute"/>
 
 - Website Published:
-  	- www.pktfive.com (Downed)	   
-  	- www.keketang.cloud
+  	- ***www.pktfive.com (Downed)***	
+  	- ***www.keketang.cloud***
 
 - Games Developed (Unreleased): 
-	- Ascend;Moon <img src="https://media.discordapp.net/attachments/1126136594844368986/1126377822345232456/AscendMoonIcon.png" width="16" alt="Ascend;Moon"/> [Platformer Game - 2021 - Unity <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386479648735242/unity-white-logo-icon-png-11663347637u87rvlltwq.png" width="16" alt="Unity"/> ]
- 	- Arisu's Seclusion <img src="https://media.discordapp.net/attachments/1126136594844368986/1126378369836126278/ArisusSeclusionIcon.png" width="16" alt="Ascend;Moon"/> [RPG-4th Wall-Breaking Game - 2022 - Unity <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386479648735242/unity-white-logo-icon-png-11663347637u87rvlltwq.png" width="16" alt="Unity"/> ]
+	- ***Ascend;Moon <img src="https://media.discordapp.net/attachments/1126136594844368986/1126377822345232456/AscendMoonIcon.png" width="16" alt="Ascend;Moon"/> [Platformer Game - 2021 - Unity <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386479648735242/unity-white-logo-icon-png-11663347637u87rvlltwq.png" width="16" alt="Unity"/> ]***
+ 	- ***Arisu's Seclusion <img src="https://media.discordapp.net/attachments/1126136594844368986/1126378369836126278/ArisusSeclusionIcon.png" width="16" alt="Ascend;Moon"/> [RPG-4th Wall-Breaking Game - 2022 - Unity <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386479648735242/unity-white-logo-icon-png-11663347637u87rvlltwq.png" width="16" alt="Unity"/> ]***
 
 - Games Planned:
-	- LLFG (Unfinished - Became busy) <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386745848647752/24-245835_question-mark-white-question-mark-vector.png" width="16" alt="LLFG" /> [Fighting Game - 2023 - Unity <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386479648735242/unity-white-logo-icon-png-11663347637u87rvlltwq.png" width="16" alt="Unity"/> ]
-   	- ALTERSIDE (Planned with PKT) <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386745848647752/24-245835_question-mark-white-question-mark-vector.png" width="16" alt="LLFG" /> [Online Game - 2023 - Unity <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386479648735242/unity-white-logo-icon-png-11663347637u87rvlltwq.png" width="16" alt="Unity"/> ]
+	- ***LLFG (Unfinished - Became busy) <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386745848647752/24-245835_question-mark-white-question-mark-vector.png" width="16" alt="LLFG" /> [Fighting Game - 2023 - Unity <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386479648735242/unity-white-logo-icon-png-11663347637u87rvlltwq.png" width="16" alt="Unity"/> ]***
+   	- ***ALTERSIDE (Planned with PKT) <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386745848647752/24-245835_question-mark-white-question-mark-vector.png" width="16" alt="LLFG" /> [Online Game - 2023 - Unity <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386479648735242/unity-white-logo-icon-png-11663347637u87rvlltwq.png" width="16" alt="Unity"/> ]***
 
 - Several Windows Applications
  
@@ -56,7 +56,6 @@
  
 </div>
 
-<br/>
 <br/>
 
 ---
@@ -89,7 +88,3 @@
 <sub> *Keke Tang / 唐可可* </sub>
   
 </div>
-
-
-
-	
