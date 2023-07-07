@@ -32,7 +32,7 @@
 </div>
 
 <div align="left">
-	<img src="repository.svg" width="60%" alt="aboutme">
+	<img src="projects.svg" width="60%" alt="projects">
 
 <br/>
 
