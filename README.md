@@ -1,5 +1,5 @@
 <p align="center">
-	  <img src="https://raw.githubusercontent.com/tristankeith/readme-private/ORIGIN/headerimage.svg?token=GHSAT0AAAAAACEHLPWPPNK4LZCEAJNT5342ZFG4UOA" width="150" alt="headerimage">
+	  <img src="headerimage.svg" width="150" alt="headerimage">
 </p>
 <p align="center">
 	tristankeith
@@ -9,7 +9,7 @@
 ---
 
 <div align="left">
-	<img src="https://raw.githubusercontent.com/tristankeith/readme-private/ORIGIN/aboutme.svg?token=GHSAT0AAAAAACEHLPWOAM3T6IEV62W3C224ZFG4VOA" width="70%" alt="aboutme">
+	<img src="aboutme.svg" width="70%" alt="aboutme">
 	
 <br/>
 <br/>
@@ -32,7 +32,7 @@
 </div>
 
 <div align="left">
-	<img src="https://raw.githubusercontent.com/tristankeith/readme-private/ORIGIN/repository.svg?token=GHSAT0AAAAAACEHLPWPVPSR2GMHRGMNRWVWZFG4VYA" width="70%" alt="aboutme">
+	<img src="projects.svg" width="70%" alt="aboutme">
 
 <br/>
 
