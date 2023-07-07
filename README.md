@@ -62,7 +62,7 @@
 
 ---
 
-<sub>  *I didn't know that you can customize your profile readme.md until i saw aiko's profile. so credits to [pronounce].* </sub>
+<sub>  *I didn't know that you can customize your profile readme.md until i saw aiko's profile. so credits to [pronouns].* </sub>
 
 <br/>
 <br/>
