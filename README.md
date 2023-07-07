@@ -21,7 +21,7 @@
 - Not obvious, but <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126393503950315561/2589-1593936822.png" width="64" alt="LL"/> Fan (Mostly <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126394050480722100/2560px-Liella21_Official_Logo.png" width="64" alt="Liella"/> Group - and <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126394523904376842/latest.png" width="48" alt="KekeSign"/> Oshi)
 
 
-- Aspiring Game Developer [Failed] still making games though <br/>
+- Aspiring ***Game Developer*** [Failed] still making games though <br/>
 	↳ Currently ***Software Engineer***
 - Likes to play video games. But depends on what my friends are playing xD
 	- Mostly plays Valorant <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126400004194586685/valorant-logo-transparent-free-png.png" width="16" alt="val"/>, Dota 2 <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126400049207857152/Dota-2-Logo.png" width="16" alt="dota2"/>, GTA <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126400105591881840/Grand-Theft-Auto-V-Logo-PNG-Photos.png" width="16" alt="GTAV"/>
