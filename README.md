@@ -66,7 +66,7 @@
 <br/>
 
 <div align="center">
-	<img src="stats.svg" width="60%" alt="aboutme">
+	<img src="stats.svg" width="60%" alt="stats">
 	<br/>
 	<br/>
 	<br/>
