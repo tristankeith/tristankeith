@@ -26,7 +26,11 @@
 
  - Most of my repositories are privated and/or hosted at other services. :<
 
-- Mainly used C# <img src="https://media.discordapp.net/attachments/1126136594844368986/1126403521709871185/csharp-original.png" width="16" alt="C#"/>, Python <img src="https://media.discordapp.net/attachments/1126136594844368986/1126403646859522128/python-original.png" width="16" alt="Python"/>, Java <img src="https://media.discordapp.net/attachments/1126136594844368986/1126403540282245161/java-original.png" width="16" alt="Java"/>, and JavaScript <img src="https://media.discordapp.net/attachments/1126136594844368986/1126403553045532732/javascript-original.png" width="16" alt="Java"/>. I've used other languages but not commonly used.
+- Mainly used C# <img src="https://media.discordapp.net/attachments/1126136594844368986/1126403521709871185/csharp-original.png" width="16" alt="C#"/>, Python <img src="https://media.discordapp.net/attachments/1126136594844368986/1126403646859522128/python-original.png" width="16" alt="Python"/>, Java <img src="https://media.discordapp.net/attachments/1126136594844368986/1126403540282245161/java-original.png" width="16" alt="Java"/>, and JavaScript <img src="https://media.discordapp.net/attachments/1126136594844368986/1126403553045532732/javascript-original.png" width="16" alt="Java"/>. I've used other languages but not commonly used. </br>
+  	↳ Currently learning:
+  Perl <img src="https://api.iconify.design/logos-perl.svg" width="16" alt="Perl"/>,
+  XSLT <img src="https://loading.io/s/icon/5l6haf.svg" width="16" alt="XSLT"/>,
+  XML <img src="https://loading.io/s/icon/pq0uz.svg" width="16" alt="XSLT"/>
  
 </div>
 
