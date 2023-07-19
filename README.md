@@ -56,10 +56,6 @@
 	- ***LLFG (Unfinished - Became busy) <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386745848647752/24-245835_question-mark-white-question-mark-vector.png" width="16" alt="LLFG" /> [Fighting Game - 2023 - Unity <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386479648735242/unity-white-logo-icon-png-11663347637u87rvlltwq.png" width="16" alt="Unity"/> ]***
    	- ***ALTERSIDE (Planned with PKT) <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386745848647752/24-245835_question-mark-white-question-mark-vector.png" width="16" alt="LLFG" /> [Online Game - 2023 - Unity <img src="https://cdn.discordapp.com/attachments/1126136594844368986/1126386479648735242/unity-white-logo-icon-png-11663347637u87rvlltwq.png" width="16" alt="Unity"/> ]***
 
-- Several Windows Applications
- 
-- Several Discord Bots
- 
 </div>
 
 <br/>
