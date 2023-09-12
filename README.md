@@ -5,7 +5,7 @@
 	tristankeith <br/>
 	<img src="https://discord.com/assets/fddabadcb0b358a763a9afd2857bb5d5.svg" width="16" alt="ph"/>
 </p>
-</div>
+</div
 
 ---
 
