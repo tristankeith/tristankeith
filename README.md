@@ -1,4 +1,4 @@
-<p align="center">1
+<p align="center">
 	  <img src="headerimage.svg" width="150" alt="headerimage">
 </p>
 <p align="center">
