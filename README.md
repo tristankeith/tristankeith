@@ -29,18 +29,18 @@
   	↳ Currently learning:
   Kotlin <img src="https://i.imgur.com/MRbn0Cf.png" width="16" alt="KOTLIN"/>
   
- 
 </div>
 
+---
+
 <br/>
-<br/>
+
+<img src="https://media1.tenor.com/m/uP71i-SIvA4AAAAd/tang-keke-love-live-superstar.gif" width="260" height="521" align="right" alt="cute"/>
 
 <div align="left">
 	<img src="projects.svg" width="60%" alt="projects">
 
 <br/>
-
-<img src="https://i.imgur.com/Wp3iQAE.gif" width="250" align="right" alt="cute"/>
 
 - Website Published:
   	- ***www.pktfive.com (Downed)***	
@@ -55,13 +55,9 @@
 - Games Planned:
    	- ***ALTERSIDE (Planned with PKT) <img src="https://i.imgur.com/g3b9Ouq.png" width="16" alt="LLFG" /> [Online Game - 2023 - Unity <img src="https://i.imgur.com/BB2d1Zc.png" width="16" alt="Unity"/> ]***
 
-</br>
-</br>
-</br>
-</br>
- 
 </div>
 
+<br/>
 <br/>
 <br/>
 
@@ -74,10 +70,29 @@
 	<br/>
 	<br/>
 	<br/>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=tristankeith&theme=vue-dark&hide_border=true" width="55.5%" alt="stats"/>
+	<img src="github-metrics.svg" width="49.4%" align="left" alt="metrics" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=tristankeith&theme=vue-dark&hide_border=true" width="40%" align="right" alt="stats"/>
+	<img src="https://grs-tristankeith.vercel.app/api/top-langs/?username=tristankeith&layout=compact&theme=vue-dark&hide_border=true&PAT_1" width="40%" align="right" alt="langs"/>
 	<br/>
- <img src="https://grs-tristankeith.vercel.app/api/top-langs/?username=tristankeith&layout=compact&theme=vue-dark&hide_border=true&PAT_1" width="43.5%" alt="langs"/>
-	
+	<br/>
+	<br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 </div>
 
 ---
@@ -100,7 +115,21 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
+<div align="center">
+
+<sup>favorite SIF1 UR cards I have before termination</sup>
+<br/>
+<img src="https://lostone.kirara.ca/card/card_3730_st.png" width="8%">
+<img src="https://lostone.kirara.ca/card/card_3441_st.png" width="8%">
+
+<br/>
+
+</div>
 
 <div align="center">
 	
