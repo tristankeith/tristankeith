@@ -97,7 +97,7 @@
 
 ---
 <div align="center">
-<img src="status.svg" width="70%" alt="stats">
+<img src="status.svg" width="70%" alt="statuses">
 <br/>
 <img src="https://raw.githubusercontent.com/tristankeith/ping-everything-output/refs/heads/ORIGIN/status.svg" width="70%" align="center" alt="statuses" />
 </div>
