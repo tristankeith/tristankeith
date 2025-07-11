@@ -99,7 +99,7 @@
 <div align="center">
 <img src="status.svg" width="70%" alt="statuses">
 <br/>
-<img src="https://raw.githubusercontent.com/tristankeith/ping-everything-output/refs/heads/ORIGIN/status.svg" width="70%" align="center" alt="statuses" />
+<img src="ping_everything_status.svg" width="70%" align="center" alt="statuses" />
 </div>
 <br/>
 <br/>
